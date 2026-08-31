@@ -1,0 +1,6 @@
+{
+  "name": "Hairdressing Salon Mary",
+  "description": "Premium website for Hairdressing Salon Mary in Vinkovci, Croatia. Professional hairdressing, styling and grooming at Duga ulica 57.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
